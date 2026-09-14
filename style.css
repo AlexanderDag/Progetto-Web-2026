@@ -1,18 +1,671 @@
-body{
-    background-image: url(./images/772411.jpg)
+/* ===== RESET & BASE ===== */
+
+* {
+    box-sizing: border-box;
 }
 
-h1{
+:root {
+    --bg-dark: #14121c;
+    --panel-bg: rgba(24, 20, 34, 0.88);
+
+    --accent: #b967ff;
+    --accent-light: #ff6ec7;
+    --accent-soft: rgba(185, 103, 255, 0.15);
+
+    --text-main: #f2eefc;
+    --text-muted: rgba(242, 238, 252, 0.7);
+}
+
+body {
+    margin: 0;
+    padding: 20px;
+    min-height: 100vh;
+
+    font-family: "Segoe UI", Arial, sans-serif;
+    color: var(--text-main);
+
+    background-color: var(--bg-dark);
+
+    background-image:
+        linear-gradient(
+            rgba(20, 18, 28, 0.85),
+            rgba(20, 18, 28, 0.85)
+        ),
+        url(./images/772411.jpg);
+
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+/* ===== HEADER ===== */
+
+header {
+    border-radius: 18px;
+
+    background:
+        linear-gradient(
+            135deg,
+            #1c1826,
+            #2a1f3d
+        );
+
+    padding: 20px 30px;
+    margin-bottom: 20px;
+
+    box-shadow:
+        0 4px 16px rgba(0, 0, 0, 0.4);
+
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+
+
+/* ===== TITOLO ===== */
+
+header h1 {
+    margin: 0;
+
     text-align: center;
-    background-color: black;
-    color: white;
+
+    font-size: 2.2rem;
+    letter-spacing: 2px;
+
+    background:
+        linear-gradient(
+            90deg,
+            var(--accent),
+            var(--accent-light)
+        );
+
+    -webkit-background-clip: text;
+    background-clip: text;
+
+    color: transparent;
 }
 
-section{
-    background-color: rgb(55, 51, 51);
-    color: white;
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(220px, 260px));
+
+/* ===== RIGA RICERCA + LOGIN ===== */
+
+.search-row {
+    display: flex;
     justify-content: center;
+    align-items: center;
+
+    gap: 12px;
+}
+
+.search-row input[type="search"] {
+    width: min(360px, 70vw);
+
+    padding: 9px 16px;
+
+    border: 1px solid var(--accent-soft);
+    border-radius: 20px;
+
+    background-color: rgba(255, 255, 255, 0.06);
+
+    color: var(--text-main);
+
+    outline: none;
+
+    transition:
+        box-shadow 0.2s ease,
+        border-color 0.2s ease,
+        background-color 0.2s ease;
+}
+
+.search-row input[type="search"]::placeholder {
+    color: var(--text-muted);
+}
+
+.search-row input[type="search"]:focus {
+    border-color: var(--accent);
+
+    background-color: rgba(255, 255, 255, 0.08);
+
+    box-shadow:
+        0 0 0 3px var(--accent-soft);
+}
+
+
+/* ===== LOGIN ===== */
+
+.search-row .login {
+    margin: 0;
+
+    padding: 9px 18px;
+
+    border-radius: 20px;
+
+    background:
+        linear-gradient(
+            90deg,
+            var(--accent),
+            var(--accent-light)
+        );
+
+    color: #1c1826;
+
+    font-weight: 600;
+
+    cursor: pointer;
+    white-space: nowrap;
+
+    transition:
+        transform 0.15s ease,
+        box-shadow 0.15s ease;
+}
+
+.search-row .login:hover {
+    transform: translateY(-2px);
+
+    box-shadow:
+        0 4px 12px rgba(185, 103, 255, 0.4);
+}
+
+
+/* ===== NAVIGAZIONE ===== */
+
+.header-nav {
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+
+    gap: 350px;
+}
+
+.header-nav p {
+    margin: 0;
+
+    padding: 6px 14px;
+
+    border-radius: 8px;
+
+    color: var(--text-muted);
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.15s ease,
+        color 0.15s ease,
+        transform 0.15s ease;
+}
+
+.header-nav p:hover {
+    background-color: var(--accent-soft);
+
+    color: var(--text-main);
+
+    transform: translateY(-1px);
+}
+
+
+/* ===== MAIN ===== */
+
+main {
+    border-radius: 18px;
+
+    background-color: var(--panel-bg);
+
+    padding: 24px;
+    margin-bottom: 20px;
+
+    min-height: 60vh;
+
+    box-shadow:
+        0 4px 16px rgba(0, 0, 0, 0.4);
+}
+
+
+/* ===== GRIGLIA GIOCHI ===== */
+
+section#giochi {
+    display: grid;
+
+    grid-template-columns:
+        repeat(
+            auto-fit,
+            minmax(220px, 260px)
+        );
+
+    justify-content: center;
+
     gap: 20px;
+}
+
+
+/* ===== CARD ===== */
+
+.card {
+    position: relative;
+
+    /* La card ora si adatta al contenuto */
+    min-height: 0;
+
+    padding: 20px;
+
+    border-radius: 18px;
+
+    background:
+        linear-gradient(
+            145deg,
+            rgba(38, 34, 52, 0.95),
+            rgba(25, 22, 36, 0.95)
+        );
+
+    border:
+        1px solid rgba(185, 103, 255, 0.25);
+
+    box-shadow:
+        0 8px 25px rgba(0, 0, 0, 0.35),
+        inset 0 1px 0 rgba(255, 255, 255, 0.05);
+
+    cursor: pointer;
+
+    overflow: hidden;
+
+    transition:
+        transform 0.25s ease,
+        box-shadow 0.25s ease,
+        border-color 0.25s ease;
+}
+
+
+/* ===== LINEA LUMINOSA SUPERIORE ===== */
+
+.card::before {
+    content: "";
+
+    position: absolute;
+
+    top: 0;
+    left: 0;
+
+    width: 100%;
+    height: 4px;
+
+    background:
+        linear-gradient(
+            90deg,
+            var(--accent),
+            var(--accent-light)
+        );
+
+    opacity: 0.8;
+
+    transition:
+        opacity 0.25s ease,
+        height 0.25s ease;
+}
+
+
+/* ===== HOVER CARD ===== */
+
+.card:hover {
+    transform: translateY(-6px);
+
+    border-color:
+        rgba(185, 103, 255, 0.65);
+
+    box-shadow:
+        0 15px 35px rgba(0, 0, 0, 0.45),
+        0 0 25px rgba(185, 103, 255, 0.12);
+}
+
+.card:hover::before {
+    opacity: 1;
+    height: 5px;
+}
+
+
+/* ===== TITOLO CARD ===== */
+
+.card-title {
+    margin: 8px 0 22px;
+
+    font-size: 1.35rem;
+
+    font-weight: 700;
+
+    letter-spacing: 0.3px;
+
+    /* Piccola sfumatura bianco -> viola */
+    background:
+        linear-gradient(
+            90deg,
+            #f2eefc,
+            #d9b8ff
+        );
+
+    -webkit-background-clip: text;
+    background-clip: text;
+
+    color: transparent;
+}
+
+
+/* ===== INFO CARD ===== */
+
+.card-info {
+    margin-top: 16px;
+}
+
+
+/* ===== ETICHETTE ===== */
+
+.info-label {
+    display: block;
+
+    margin-bottom: 8px;
+
+    font-size: 0.65rem;
+
+    font-weight: 700;
+
+    text-transform: uppercase;
+
+    letter-spacing: 1.5px;
+
+    color:
+        rgba(242, 238, 252, 0.45);
+}
+
+
+/* ===== CONTENITORE PILL ===== */
+
+.tags {
+    display: flex;
+
+    flex-wrap: wrap;
+
+    gap: 7px;
+}
+
+
+/* ===== PILL ===== */
+
+.tag {
+    display: inline-flex;
+
+    align-items: center;
+
+    padding: 6px 10px;
+
+    border-radius: 8px;
+
+    font-size: 0.73rem;
+
+    font-weight: 500;
+
+    color:
+        rgba(242, 238, 252, 0.9);
+
+    background:
+        rgba(185, 103, 255, 0.10);
+
+    border:
+        1px solid rgba(185, 103, 255, 0.22);
+
+    box-shadow:
+        inset 0 1px 0 rgba(255, 255, 255, 0.04);
+
+    transition:
+        background-color 0.2s ease,
+        border-color 0.2s ease,
+        color 0.2s ease,
+        transform 0.2s ease,
+        box-shadow 0.2s ease;
+}
+
+
+/* ===== HOVER PILL ===== */
+
+.tag:hover {
+    background:
+        linear-gradient(
+            135deg,
+            rgba(185, 103, 255, 0.25),
+            rgba(255, 110, 199, 0.15)
+        );
+
+    border-color:
+        rgba(185, 103, 255, 0.55);
+
+    color: #ffffff;
+
+    transform: translateY(-2px);
+
+    box-shadow:
+        0 4px 12px rgba(185, 103, 255, 0.15);
+}
+
+
+/* ===== PULSANTE CHIUSURA ===== */
+
+.card-close {
+    display: none;
+
+    position: absolute;
+
+    top: 14px;
+    right: 14px;
+
+    width: 30px;
+    height: 30px;
+
+    padding: 0;
+
+    border:
+        1px solid rgba(255, 255, 255, 0.08);
+
+    border-radius: 50%;
+
+    background:
+        rgba(255, 255, 255, 0.05);
+
+    color: var(--text-muted);
+
+    font-size: 1.2rem;
+
+    line-height: 28px;
+
+    text-align: center;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        transform 0.2s ease;
+}
+
+.card-close:hover {
+    background:
+        rgba(255, 110, 199, 0.15);
+
+    color:
+        var(--accent-light);
+
+    transform: rotate(90deg);
+}
+
+
+/* ===== CARD ESPANSA ===== */
+
+.card.card--open {
+    position: fixed;
+
+    top: 50%;
+    left: 50%;
+
+    transform:
+        translate(-50%, -50%);
+
+    width: min(520px, 90vw);
+
+    max-height: 80vh;
+
+    overflow-y: auto;
+
+    z-index: 1000;
+
+    padding: 36px;
+
+    background:
+        linear-gradient(
+            145deg,
+            #2b2140,
+            #1d182b
+        );
+
+    border:
+        1px solid var(--accent);
+
+    box-shadow:
+        0 25px 70px rgba(0, 0, 0, 0.7),
+        0 0 40px rgba(185, 103, 255, 0.18);
+
+    cursor: default;
+}
+
+
+/* niente movimento quando aperta */
+
+.card.card--open:hover {
+    transform:
+        translate(-50%, -50%);
+}
+
+
+/* linea superiore card aperta */
+
+.card.card--open::before {
+    opacity: 1;
+
+    height: 5px;
+}
+
+
+/* titolo card aperta */
+
+.card.card--open .card-title {
+    font-size: 1.6rem;
+
+    margin-bottom: 30px;
+}
+
+
+/* info card aperta */
+
+.card.card--open .card-info {
+    margin-top: 25px;
+}
+
+
+/* pill card aperta */
+
+.card.card--open .tag {
+    padding: 8px 12px;
+
+    font-size: 0.82rem;
+
+    border-radius: 9px;
+}
+
+
+/* pulsante chiudi */
+
+.card.card--open .card-close {
+    display: block;
+}
+
+
+/* ===== OVERLAY ===== */
+
+.overlay {
+    position: fixed;
+
+    inset: 0;
+
+    background-color:
+        rgba(10, 8, 16, 0.7);
+
+    backdrop-filter: blur(3px);
+
+    z-index: 999;
+}
+
+
+/* ===== FOOTER ===== */
+
+footer {
+    border-radius: 18px;
+
+    background:
+        linear-gradient(
+            135deg,
+            #1c1826,
+            #2a1f3d
+        );
+
+    text-align: center;
+
+    padding: 14px;
+
+    box-shadow:
+        0 4px 16px rgba(0, 0, 0, 0.4);
+}
+
+footer p {
+    margin: 0;
+
+    color: var(--text-muted);
+
+    font-size: 0.85rem;
+}
+
+
+/* ===== RESPONSIVE ===== */
+
+@media (max-width: 600px) {
+
+    body {
+        padding: 10px;
+    }
+
+    header {
+        padding: 18px;
+    }
+
+    .search-row {
+        flex-wrap: wrap;
+    }
+
+    .search-row input[type="search"] {
+        width: min(360px, 100%);
+    }
+
+    .header-nav {
+        gap: 20px;
+    }
+
+    .header-nav p {
+        padding: 6px 10px;
+    }
+
+    main {
+        padding: 16px;
+    }
+
+    section#giochi {
+        grid-template-columns: 1fr;
+    }
+
+    .card {
+        min-height: auto;
+    }
 }
