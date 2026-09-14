@@ -1,0 +1,403 @@
+[
+  {
+    "index": 1,
+    "name": "Elden Ring",
+    "platform": ["PC", "PS5", "Xbox Series X/S"],
+    "tags": ["Action RPG", "Open World", "Soulslike"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 2,
+    "name": "Cyberpunk 2077",
+    "platform": ["PC", "PS5", "Xbox Series X/S"],
+    "tags": ["Action RPG", "Open World", "Sci-Fi"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 3,
+    "name": "The Witcher 3: Wild Hunt",
+    "platform": ["PC", "PS4", "Xbox One", "Switch"],
+    "tags": ["RPG", "Open World", "Fantasy"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 4,
+    "name": "Red Dead Redemption 2",
+    "platform": ["PC", "PS4", "Xbox One"],
+    "tags": ["Action", "Adventure", "Open World"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 5,
+    "name": "Baldur's Gate 3",
+    "platform": ["PC", "PS5"],
+    "tags": ["RPG", "Turn-Based", "Fantasy"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 6,
+    "name": "Hades",
+    "platform": ["PC", "PS5"],
+    "tags": ["Roguelike", "Action", "Indie"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 7,
+    "name": "Hollow Knight",
+    "platform": ["PC", "Switch"],
+    "tags": ["Metroidvania", "Action", "Indie"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 8,
+    "name": "DOOM Eternal",
+    "platform": ["PC", "PS5", "Xbox Series X/S"],
+    "tags": ["FPS", "Action", "Shooter"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 9,
+    "name": "God of War Ragnarök",
+    "platform": ["PC", "PS5"],
+    "tags": ["Action", "Adventure", "Mythology"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 10,
+    "name": "Ghost of Tsushima Director's Cut",
+    "platform": ["PS5", "PC"],
+    "tags": ["Action", "Open World", "Samurai"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 11,
+    "name": "Horizon Forbidden West",
+    "platform": ["PS5", "PC"],
+    "tags": ["Action RPG", "Open World", "Sci-Fi"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 12,
+    "name": "Death Stranding Director's Cut",
+    "platform": ["PC", "PS5"],
+    "tags": ["Adventure", "Open World", "Sci-Fi"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 13,
+    "name": "Sekiro: Shadows Die Twice",
+    "platform": ["PC", "PS4", "Xbox One"],
+    "tags": ["Action", "Soulslike", "Stealth"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 14,
+    "name": "Dark Souls III",
+    "platform": ["PC", "PS4", "Xbox One"],
+    "tags": ["Action RPG", "Soulslike", "Fantasy"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 15,
+    "name": "Resident Evil 4 Remake",
+    "platform": ["PC", "PS5", "Xbox Series X/S"],
+    "tags": ["Survival Horror", "Action", "Shooter"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 16,
+    "name": "Monster Hunter: World",
+    "platform": ["PC", "PS4", "Xbox One"],
+    "tags": ["Action RPG", "Co-op", "Fantasy"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 17,
+    "name": "Minecraft",
+    "platform": ["PC", "Switch", "Mobile"],
+    "tags": ["Sandbox", "Survival", "Crafting"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 18,
+    "name": "Terraria",
+    "platform": ["PC", "PS4", "Xbox One", "Switch", "Mobile"],
+    "tags": ["Sandbox", "Survival", "Adventure", "2D"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 19,
+    "name": "Stardew Valley",
+    "platform": ["PC", "Switch", "PS4", "Xbox One", "Mobile"],
+    "tags": ["Simulation", "Farming", "RPG", "Indie"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 20,
+    "name": "Factorio",
+    "platform": ["PC"],
+    "tags": ["Automation", "Strategy", "Simulation"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 21,
+    "name": "Satisfactory",
+    "platform": ["PC"],
+    "tags": ["Automation", "Factory", "Open World"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 22,
+    "name": "RimWorld",
+    "platform": ["PC"],
+    "tags": ["Simulation", "Strategy", "Colony Sim"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 23,
+    "name": "Civilization VI",
+    "platform": ["PC"],
+    "tags": ["Strategy", "Turn-Based", "4X"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 24,
+    "name": "Age of Empires IV",
+    "platform": ["PC", "Xbox Series X/S"],
+    "tags": ["RTS", "Strategy", "Historical"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 25,
+    "name": "XCOM 2",
+    "platform": ["PC", "PS4", "Xbox One", "Switch"],
+    "tags": ["Strategy", "Turn-Based", "Sci-Fi"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 26,
+    "name": "Slay the Spire",
+    "platform": ["PC", "PS4", "Xbox One", "Switch"],
+    "tags": ["Roguelike", "Deck Builder", "Strategy", "Indie"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 27,
+    "name": "Disco Elysium",
+    "platform": ["PC", "PS4", "Xbox One", "Switch"],
+    "tags": ["RPG", "Narrative", "Detective", "Indie"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 28,
+    "name": "Divinity: Original Sin 2",
+    "platform": ["PC", "PS4", "Xbox One", "Switch"],
+    "tags": ["RPG", "Turn-Based", "Fantasy", "Co-op"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 29,
+    "name": "Portal 2",
+    "platform": ["PC", "PS4", "Xbox One"],
+    "tags": ["Puzzle", "FPS", "Co-op"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 30,
+    "name": "Half-Life 2",
+    "platform": ["PC"],
+    "tags": ["FPS", "Action", "Sci-Fi"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 31,
+    "name": "No Man's Sky",
+    "platform": ["PC", "PS5", "Xbox Series X/S"],
+    "tags": ["Survival", "Open World", "Space", "Exploration"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 32,
+    "name": "Subnautica",
+    "platform": ["PC", "PS4", "Xbox One", "Switch"],
+    "tags": ["Survival", "Adventure", "Open World", "Exploration"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 33,
+    "name": "Valheim",
+    "platform": ["PC", "Xbox Series X/S"],
+    "tags": ["Survival", "Crafting", "Open World", "Co-op"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 34,
+    "name": "Sea of Thieves",
+    "platform": ["PC", "Xbox Series X/S"],
+    "tags": ["Adventure", "Open World", "Multiplayer", "Pirates"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 35,
+    "name": "Rocket League",
+    "platform": ["PC", "PS5", "Xbox Series X/S", "Switch"],
+    "tags": ["Sports", "Racing", "Multiplayer"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 36,
+    "name": "Overwatch 2",
+    "platform": ["PC", "PS5", "Xbox Series X/S"],
+    "tags": ["FPS", "Hero Shooter", "Multiplayer"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 37,
+    "name": "Apex Legends",
+    "platform": ["PC", "PS5", "Xbox Series X/S", "Switch"],
+    "tags": ["Battle Royale", "FPS", "Multiplayer"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 38,
+    "name": "Tom Clancy's Rainbow Six Siege",
+    "platform": ["PC", "PS5", "Xbox Series X/S"],
+    "tags": ["FPS", "Tactical Shooter", "Multiplayer"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 39,
+    "name": "Counter-Strike 2",
+    "platform": ["PC", "PS5", "Xbox Series X/S"],
+    "tags": ["FPS", "Competitive", "Multiplayer"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 40,
+    "name": "League of Legends",
+    "platform": ["PC"],
+    "tags": ["MOBA", "Competitive", "Multiplayer"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 41,
+    "name": "Dota 2",
+    "platform": ["PC"],
+    "tags": ["MOBA", "Strategy", "Competitive"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 42,
+    "name": "Fortnite",
+    "platform": ["PC", "PS5", "Xbox Series X/S"],
+    "tags": ["Battle Royale", "Shooter", "Survival"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 43,
+    "name": "Dead by Daylight",
+    "platform": ["PC", "PS5", "Xbox Series X/S"],
+    "tags": ["Horror", "Survival", "Multiplayer"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 44,
+    "name": "The Elder Scrolls V: Skyrim Special Edition",
+    "platform": ["PC", "PS5", "Xbox Series X/S"],
+    "tags": ["RPG", "Open World", "Fantasy"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 45,
+    "name": "Persona 5 Royal",
+    "platform": ["PC", "PS5", "Xbox Series X/S"],
+    "tags": ["JRPG", "Turn-Based", "Anime"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 46,
+    "name": "Control",
+    "platform": ["PC", "PS5", "Xbox Series X/S"],
+    "tags": ["Action", "Adventure", "Sci-Fi"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+  {
+    "index": 47,
+    "name": "Alan Wake 2",
+    "platform": ["PC", "PS5", "Xbox Series X/S"],
+    "tags": ["Survival Horror", "Adventure", "Narrative"],
+    "howLongToBeat": "TODO_HOWLONGTOBEAT",
+    "review": "TODO_REVIEW"
+  },
+    
+  {
+  "index": 48,
+  "name": "It Takes Two",
+  "platform": ["PC", "PS5", "Xbox Series X/S"],
+  "tags": ["Co-op", "Platform", "Adventure", "Puzzle"],
+  "howLongToBeat": "TODO_HOWLONGTOBEAT",
+  "review": "TODO_REVIEW"
+  },
+  {
+  "index": 49,
+  "name": "Celeste",
+  "platform": ["PC", "PS5", "Xbox Series X/S", "Switch"],
+  "tags": ["Platform", "Indie", "Precision"],
+  "howLongToBeat": "TODO_HOWLONGTOBEAT",
+  "review": "TODO_REVIEW"
+  },
+  {
+  "index": 50,
+  "name": "Lies of P",
+  "platform": ["PC", "PS5", "Xbox Series X/S"],
+  "tags": ["Soulslike", "Action RPG", "Fantasy"],
+  "howLongToBeat": "TODO_HOWLONGTOBEAT",
+  "review": "TODO_REVIEW"
+  }
+  ]
