@@ -4,376 +4,376 @@
     "name": "Elden Ring",
     "platform": ["PC", "PS5", "Xbox Series X/S"],
     "tags": ["Action RPG", "Open World", "Soulslike"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/68151",
+    "review": "https://www.ign.com/articles/elden-ring-review"
   },
   {
     "index": 2,
     "name": "Cyberpunk 2077",
     "platform": ["PC", "PS5", "Xbox Series X/S"],
     "tags": ["Action RPG", "Open World", "Sci-Fi"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/2127",
+    "review": "https://www.ign.com/articles/cyberpunk-2077-review"
   },
   {
     "index": 3,
     "name": "The Witcher 3: Wild Hunt",
     "platform": ["PC", "PS4", "Xbox One", "Switch"],
     "tags": ["RPG", "Open World", "Fantasy"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/10270",
+    "review": "https://www.ign.com/articles/2015/05/12/the-witcher-3-the-wild-hunt-review"
   },
   {
     "index": 4,
     "name": "Red Dead Redemption 2",
     "platform": ["PC", "PS4", "Xbox One"],
     "tags": ["Action", "Adventure", "Open World"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/27100",
+    "review": "https://www.ign.com/articles/2018/10/25/red-dead-redemption-2-review"
   },
   {
     "index": 5,
     "name": "Baldur's Gate 3",
     "platform": ["PC", "PS5"],
     "tags": ["RPG", "Turn-Based", "Fantasy"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/68033",
+    "review": "https://www.ign.com/articles/baldurs-gate-3-review"
   },
   {
     "index": 6,
     "name": "Hades",
     "platform": ["PC", "PS5"],
     "tags": ["Roguelike", "Action", "Indie"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/62941",
+    "review": "https://www.ign.com/articles/hades-review"
   },
   {
     "index": 7,
     "name": "Hollow Knight",
     "platform": ["PC", "Switch"],
     "tags": ["Metroidvania", "Action", "Indie"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/26286",
+    "review": "https://www.ign.com/articles/2018/06/22/hollow-knight-review"
   },
   {
     "index": 8,
     "name": "DOOM Eternal",
     "platform": ["PC", "PS5", "Xbox Series X/S"],
     "tags": ["FPS", "Action", "Shooter"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/57506",
+    "review": "https://www.ign.com/articles/doom-eternal-final-review"
   },
   {
     "index": 9,
     "name": "God of War Ragnarök",
     "platform": ["PC", "PS5"],
     "tags": ["Action", "Adventure", "Mythology"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/83146",
+    "review": "https://www.ign.com/articles/god-of-war-ragnarok-review"
   },
   {
     "index": 10,
     "name": "Ghost of Tsushima Director's Cut",
     "platform": ["PS5", "PC"],
     "tags": ["Action", "Open World", "Samurai"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/51225",
+    "review": "https://www.ign.com/articles/ghost-of-tsushima-review"
   },
   {
     "index": 11,
     "name": "Horizon Forbidden West",
     "platform": ["PS5", "PC"],
     "tags": ["Action RPG", "Open World", "Sci-Fi"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/79775",
+    "review": "https://www.ign.com/articles/horizon-forbidden-west-review"
   },
   {
     "index": 12,
     "name": "Death Stranding Director's Cut",
     "platform": ["PC", "PS5"],
     "tags": ["Adventure", "Open World", "Sci-Fi"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/38061",
+    "review": "https://www.ign.com/articles/2019/11/01/death-stranding-review"
   },
   {
     "index": 13,
     "name": "Sekiro: Shadows Die Twice",
     "platform": ["PC", "PS4", "Xbox One"],
     "tags": ["Action", "Soulslike", "Stealth"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/57415",
+    "review": "https://www.ign.com/articles/2019/03/21/sekiro-shadows-die-twice-review"
   },
   {
     "index": 14,
     "name": "Dark Souls III",
     "platform": ["PC", "PS4", "Xbox One"],
     "tags": ["Action RPG", "Soulslike", "Fantasy"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/26803",
+    "review": "https://www.ign.com/articles/2016/04/04/dark-souls-3-review"
   },
   {
     "index": 15,
     "name": "Resident Evil 4 Remake",
     "platform": ["PC", "PS5", "Xbox Series X/S"],
     "tags": ["Survival Horror", "Action", "Shooter"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/108881",
+    "review": "https://www.ign.com/articles/resident-evil-4-remake-review"
   },
   {
     "index": 16,
     "name": "Monster Hunter: World",
     "platform": ["PC", "PS4", "Xbox One"],
     "tags": ["Action RPG", "Co-op", "Fantasy"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/52493",
+    "review": "https://www.ign.com/articles/2018/01/25/monster-hunter-world-review"
   },
   {
     "index": 17,
     "name": "Minecraft",
     "platform": ["PC", "Switch", "Mobile"],
     "tags": ["Sandbox", "Survival", "Crafting"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/6064",
+    "review": "https://www.ign.com/articles/2011/11/24/minecraft-review"
   },
   {
     "index": 18,
     "name": "Terraria",
     "platform": ["PC", "PS4", "Xbox One", "Switch", "Mobile"],
     "tags": ["Sandbox", "Survival", "Adventure", "2D"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/9705",
+    "review": "https://www.ign.com/articles/2011/05/25/terraria-review"
   },
   {
     "index": 19,
     "name": "Stardew Valley",
     "platform": ["PC", "Switch", "PS4", "Xbox One", "Mobile"],
     "tags": ["Simulation", "Farming", "RPG", "Indie"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/34716",
+    "review": "https://www.ign.com/articles/stardew-valley-review-2024"
   },
   {
     "index": 20,
     "name": "Factorio",
     "platform": ["PC"],
     "tags": ["Automation", "Strategy", "Simulation"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/17455",
+    "review": "https://www.ign.com/articles/factorio-review"
   },
   {
     "index": 21,
     "name": "Satisfactory",
     "platform": ["PC"],
     "tags": ["Automation", "Factory", "Open World"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/65835",
+    "review": "https://www.ign.com/articles/satisfactory-review"
   },
   {
     "index": 22,
     "name": "RimWorld",
     "platform": ["PC"],
     "tags": ["Simulation", "Strategy", "Colony Sim"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/24212",
+    "review": "https://www.ign.com/articles/2016/10/26/sid-meiers-civilization-vi-review"
   },
   {
     "index": 23,
     "name": "Civilization VI",
     "platform": ["PC"],
     "tags": ["Strategy", "Turn-Based", "4X"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/37867",
+    "review": "https://www.ign.com/articles/2016/10/26/sid-meiers-civilization-vi-review"
   },
   {
     "index": 24,
     "name": "Age of Empires IV",
     "platform": ["PC", "Xbox Series X/S"],
     "tags": ["RTS", "Strategy", "Historical"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/48733",
+    "review": "https://www.ign.com/articles/age-of-empires-4-review"
   },
   {
     "index": 25,
     "name": "XCOM 2",
     "platform": ["PC", "PS4", "Xbox One", "Switch"],
     "tags": ["Strategy", "Turn-Based", "Sci-Fi"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/28279",
+    "review": "https://www.ign.com/articles/2016/02/01/xcom-2-review"
   },
   {
     "index": 26,
     "name": "Slay the Spire",
     "platform": ["PC", "PS4", "Xbox One", "Switch"],
     "tags": ["Roguelike", "Deck Builder", "Strategy", "Indie"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/51390",
+    "review": "https://www.ign.com/articles/2019/01/25/slay-the-spire-review"
   },
   {
     "index": 27,
     "name": "Disco Elysium",
     "platform": ["PC", "PS4", "Xbox One", "Switch"],
     "tags": ["RPG", "Narrative", "Detective", "Indie"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/57335",
+    "review": "https://www.ign.com/articles/2019/10/16/disco-elysium-review"
   },
   {
     "index": 28,
     "name": "Divinity: Original Sin 2",
     "platform": ["PC", "PS4", "Xbox One", "Switch"],
     "tags": ["RPG", "Turn-Based", "Fantasy", "Co-op"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/39525",
+    "review": "https://www.ign.com/articles/2017/09/21/divinity-original-sin-2-review"
   },
   {
     "index": 29,
     "name": "Portal 2",
     "platform": ["PC", "PS4", "Xbox One"],
     "tags": ["Puzzle", "FPS", "Co-op"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/7231",
+    "review": "https://www.ign.com/articles/2011/04/19/portal-2-review"
   },
   {
     "index": 30,
     "name": "Half-Life 2",
     "platform": ["PC"],
     "tags": ["FPS", "Action", "Sci-Fi"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/4248",
+    "review": "https://www.ign.com/articles/2004/11/15/half-life-2-review"
   },
   {
     "index": 31,
     "name": "No Man's Sky",
     "platform": ["PC", "PS5", "Xbox Series X/S"],
     "tags": ["Survival", "Open World", "Space", "Exploration"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/20074",
+    "review": "https://it.ign.com/no-mans-sky/114625/no-mans-sky-primi-momenti"
   },
   {
     "index": 32,
     "name": "Subnautica",
     "platform": ["PC", "PS4", "Xbox One", "Switch"],
     "tags": ["Survival", "Adventure", "Open World", "Exploration"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/23740",
+    "review": "https://www.ign.com/articles/2018/01/26/subnautica-review"
   },
   {
     "index": 33,
     "name": "Valheim",
     "platform": ["PC", "Xbox Series X/S"],
     "tags": ["Survival", "Crafting", "Open World", "Co-op"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/87873",
+    "review": "https://www.ign.com/articles/valheim-review"
   },
   {
     "index": 34,
     "name": "Sea of Thieves",
     "platform": ["PC", "Xbox Series X/S"],
     "tags": ["Adventure", "Open World", "Multiplayer", "Pirates"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/38053",
+    "review": "https://www.ign.com/articles/2018/03/28/sea-of-thieves-review"
   },
   {
     "index": 35,
     "name": "Rocket League",
     "platform": ["PC", "PS5", "Xbox Series X/S", "Switch"],
     "tags": ["Sports", "Racing", "Multiplayer"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/27113",
+    "review": "https://www.ign.com/articles/2017/12/06/rocket-league-review"
   },
   {
     "index": 36,
-    "name": "Overwatch 2",
+    "name": "Overwatch",
     "platform": ["PC", "PS5", "Xbox Series X/S"],
     "tags": ["FPS", "Hero Shooter", "Multiplayer"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/94137",
+    "review": "https://www.ign.com/articles/overwatch-review-2020-update"
   },
   {
     "index": 37,
     "name": "Apex Legends",
     "platform": ["PC", "PS5", "Xbox Series X/S", "Switch"],
     "tags": ["Battle Royale", "FPS", "Multiplayer"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/64753",
+    "review": "https://www.ign.com/articles/apex-legends-review-2"
   },
   {
     "index": 38,
     "name": "Tom Clancy's Rainbow Six Siege",
     "platform": ["PC", "PS5", "Xbox Series X/S"],
     "tags": ["FPS", "Tactical Shooter", "Multiplayer"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/21279",
+    "review": "https://www.ign.com/articles/2015/11/30/rainbow-six-siege-review"
   },
   {
     "index": 39,
     "name": "Counter-Strike 2",
     "platform": ["PC", "PS5", "Xbox Series X/S"],
     "tags": ["FPS", "Competitive", "Multiplayer"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/1957",
+    "review": "https://www.ign.com/games/counter-strike-2"
   },
   {
     "index": 40,
     "name": "League of Legends",
     "platform": ["PC"],
     "tags": ["MOBA", "Competitive", "Multiplayer"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/5203",
+    "review": "https://www.ign.com/articles/2014/02/13/league-of-legends-review-2"
   },
   {
     "index": 41,
     "name": "Dota 2",
     "platform": ["PC"],
     "tags": ["MOBA", "Strategy", "Competitive"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/2721",
+    "review": "https://www.ign.com/articles/2013/07/24/dota-2-review"
   },
   {
     "index": 42,
     "name": "Fortnite",
     "platform": ["PC", "PS5", "Xbox Series X/S"],
     "tags": ["Battle Royale", "Shooter", "Survival"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/3657",
+    "review": "https://www.ign.com/articles/2018/03/27/fortnite-battle-royale-review"
   },
   {
     "index": 43,
     "name": "Dead by Daylight",
     "platform": ["PC", "PS5", "Xbox Series X/S"],
     "tags": ["Horror", "Survival", "Multiplayer"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/37986",
+    "review": "https://www.ign.com/articles/dead-by-daylight-review"
   },
   {
     "index": 44,
     "name": "The Elder Scrolls V: Skyrim Special Edition",
     "platform": ["PC", "PS5", "Xbox Series X/S"],
     "tags": ["RPG", "Open World", "Fantasy"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/14996",
+    "review": "https://www.ign.com/articles/2016/11/01/the-elder-scrolls-v-skyrim-special-edition-review"
   },
   {
     "index": 45,
     "name": "Persona 5 Royal",
     "platform": ["PC", "PS5", "Xbox Series X/S"],
     "tags": ["JRPG", "Turn-Based", "Anime"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/66630",
+    "review": "https://www.ign.com/articles/persona-5-royal-review"
   },
   {
     "index": 46,
     "name": "Control",
     "platform": ["PC", "PS5", "Xbox Series X/S"],
     "tags": ["Action", "Adventure", "Sci-Fi"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/57507",
+    "review": "https://www.ign.com/articles/2019/08/26/control-review-2"
   },
   {
     "index": 47,
     "name": "Alan Wake 2",
     "platform": ["PC", "PS5", "Xbox Series X/S"],
     "tags": ["Survival Horror", "Adventure", "Narrative"],
-    "howLongToBeat": "TODO_HOWLONGTOBEAT",
-    "review": "TODO_REVIEW"
+    "howLongToBeat": "https://howlongtobeat.com/game/101237",
+    "review": "https://www.ign.com/articles/alan-wake-ii-review"
   },
     
   {
@@ -381,23 +381,23 @@
   "name": "It Takes Two",
   "platform": ["PC", "PS5", "Xbox Series X/S"],
   "tags": ["Co-op", "Platform", "Adventure", "Puzzle"],
-  "howLongToBeat": "TODO_HOWLONGTOBEAT",
-  "review": "TODO_REVIEW"
+  "howLongToBeat": "https://howlongtobeat.com/game/80199",
+  "review": "https://www.ign.com/articles/it-takes-two-review"
   },
   {
   "index": 49,
   "name": "Celeste",
   "platform": ["PC", "PS5", "Xbox Series X/S", "Switch"],
   "tags": ["Platform", "Indie", "Precision"],
-  "howLongToBeat": "TODO_HOWLONGTOBEAT",
-  "review": "TODO_REVIEW"
+  "howLongToBeat": "https://howlongtobeat.com/game/42818",
+  "review": "https://www.ign.com/articles/2018/01/25/celeste-review"
   },
   {
   "index": 50,
   "name": "Lies of P",
   "platform": ["PC", "PS5", "Xbox Series X/S"],
   "tags": ["Soulslike", "Action RPG", "Fantasy"],
-  "howLongToBeat": "TODO_HOWLONGTOBEAT",
-  "review": "TODO_REVIEW"
+  "howLongToBeat": "https://howlongtobeat.com/game/92418",
+  "review": "https://www.ign.com/articles/lies-of-p-review"
   }
   ]

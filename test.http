@@ -1,1 +1,1 @@
-GET http://localhost:3000/gameIndex?gameIndex=2
+GET http://localhost:3000/api/games
