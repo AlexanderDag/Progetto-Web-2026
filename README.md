@@ -372,4 +372,5 @@ Git
 GitHub
 
 Mockup:
-![Mockup del progetto](images/Mockup%20Final.png)
+![Mockup del progetto](images/mockup-final.png)
+
