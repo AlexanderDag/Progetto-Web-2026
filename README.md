@@ -370,3 +370,6 @@ CORS
 Git
 
 GitHub
+
+Mockup:
+![Mockup del progetto](images/Mockup%20Final.png)
