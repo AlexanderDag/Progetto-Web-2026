@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Registrazione</title>
+
+    <link rel="stylesheet" href="login.css">
+</head>
+
+<body>
+
+    <div class="login-container">
+
+        <h1>Registrazione</h1>
+
+        <form id="register-form">
+
+            <div class="input-group">
+
+                <label for="username">
+                    Username
+                </label>
+
+                <input
+                    type="text"
+                    id="username"
+                    name="username"
+                    placeholder="Inserisci il tuo username"
+                    required
+                >
+
+            </div>
+
+            <div class="input-group">
+
+                <label for="password">
+                    Password
+                </label>
+
+                <input
+                    type="password"
+                    id="password"
+                    name="password"
+                    placeholder="Inserisci la tua password"
+                    required
+                >
+
+            </div>
+
+            <input
+                type="submit"
+                value="Registrati"
+            >
+
+        </form>
+
+        <p class="switch-page">
+            Hai già un account?
+            <a href="login.html">Accedi</a>
+        </p>
+
+    </div>
+
+    <script src="register.js"></script>
+
+</body>
+
+</html>
